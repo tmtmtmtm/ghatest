@@ -1,4 +1,4 @@
-name: Run SPARQL
+name: Run Forde SPARQL
 
 on:
   workflow_dispatch: {}
